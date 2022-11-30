@@ -1,0 +1,17 @@
+html {
+    background: url(https://images.unsplash.com/photo-1668953009809-140e120356cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+}
+body {
+    font-size: 30px;
+    margin: 25px;
+    padding: 75px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#input {
+    border: 4px double black;
+    padding: 10px;
+}
+
+button {
+    background: #FFDB73
+}

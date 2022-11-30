@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1667756842676-dd41bf2a3c9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
+}
+
+li {
+    font-size: 25px;
+    width: 160px;
+    height: 60px;
+    background-color: #7574adee; 
+    margin: 10px 10px 10px;    
+    }
+
+    a {
+        color: rgb(240, 148, 9);
+        text-decoration: none;
+    }
+
+    A:visited{
+        color: rgb(236, 236, 12);
+    }
+    

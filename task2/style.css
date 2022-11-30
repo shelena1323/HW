@@ -1,0 +1,11 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    background: url(https://images.unsplash.com/photo-1668137307106-7ea329e251cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
+}
+
+body {
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
